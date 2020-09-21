@@ -3,7 +3,7 @@ pipeline {
   stages {
     stage('Download') {
       steps {
-        sh 'cp -r ./root/* /var/www/html/apps/esquilax'
+        sh 'sudo cp -r ./root/* /var/www/html/apps/esquilax/'
       }
     }
 
