@@ -1,0 +1,21 @@
+apiVersion: v1
+kind: Template
+metadata:
+  name: php7.4 laravel
+  annotations:
+    description: "PHP 7.4 laravel"
+    iconClass: "icon-php"
+    tags: "php,laravel"
+objects:
+- apiVersion: v1
+  kind: Pod
+  metadata:
+    name: php7.4
+  spec:
+    containers:
+    - env:
+      image: php
+      name: master
+      ports:
+      - containerPort: 80
+        protocol: TCP
