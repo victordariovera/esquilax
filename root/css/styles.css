@@ -19,6 +19,7 @@ body {
   margin: 0;
 }
 
+
 nav {
   display: flex; 
   align-items: center;
@@ -125,3 +126,99 @@ button{
   border-radius: 10px;
   cursor:pointer;
 }
+
+
+/* Estilos del panel */
+
+.vertical-design{
+  /* para el body*/
+  margin: 0;
+  overflow-y: hidden;
+}
+.container{
+    display: flex;
+    overflow-y: auto;
+    height:100vh;
+}
+
+.content-vertical{
+  display:flex;
+  flex-direction: column;
+  padding:50px;
+  overflow-y: auto;
+}
+
+.content-section{
+  display:flex;
+  margin:50px;
+  flex-direction: column;
+}
+.nav-vertical{
+  display:flex;
+  flex: 0 0 75px;
+  background-color: #041C29;
+  color:white;
+  height:100vh;
+  flex-flow:row nowrap;
+  flex-direction: column;
+
+}
+.nav-vertical-logo{
+  display:flex;
+  background-color: #75524D;
+  justify-content: center;
+  height:75px;
+  align-items: center;
+
+}
+.nav-vertical-logo img{
+  width: 30px;
+  height: 30px;
+
+}
+.nav-vertical-links{
+  display:flex;
+  font-size: 8px;
+  align-items: center;
+  justify-content: center;
+
+}
+
+.nav-vertical-links li{
+
+  height: 75px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+
+}
+
+.nav-vertical-links li:hover{
+
+  background-color: #2DE3BF;
+
+
+}
+
+.nav-vertical-links li:hover img{
+
+  filter: invert(0);
+
+}
+
+.nav-vertical-links ul{
+
+  text-align: center;
+  list-style-type: none;
+  width: 100%;
+
+
+}
+
+.nav-vertical-link-icon{
+  filter: invert(1);
+  opacity: 75%;
+}
+
+
