@@ -43,22 +43,12 @@
 
 
                 <div class="login-fields-item">
-
-                    <label class="form-check-label" for="remember">
-                        {{ __('Recordar mi sesión') }}
-                    </label>
-                            <input class="form-check-input" type="checkbox" name="remember" id="remember" {{ old('remember') ? 'checked' : '' }}>
-
-
-                </div>
-
-                <div class="login-fields-item">
-                        <button type="submit" class="btn btn-primary">
+                        <button type="submit">
                             {{ __('Login') }}
                         </button>
 
                         @if (Route::has('password.request'))
-                            <a class="btn btn-link" href="{{ route('password.request') }}">
+                            <a class="form-forgot-link" href="{{ route('password.request') }}">
                                 {{ __('Te olvidaste la contraseña?') }}
                             </a>
                         @endif

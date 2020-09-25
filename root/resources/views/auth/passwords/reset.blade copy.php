@@ -1,3 +1,4 @@
+
 @extends('layouts.app')
 
 @section('content')
@@ -5,7 +6,7 @@
 <div class="login-container">
     <div class="login-form">
         <div class=login-logo>
-            <img class="nav-logo" src="{{ asset('img/esquilax_logo_small.svg') }}">
+            <img class="nav-logo" src="img/esquilax_logo_small.svg">
         </div>
         <div class=login-fields>
 
