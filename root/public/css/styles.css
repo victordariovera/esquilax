@@ -335,4 +335,10 @@ button{
     opacity: 75%;
 }
 
+.login-form-alert{
+    color:white;
+    font-size: 12px;
+    margin:10px;
+}
+
 
