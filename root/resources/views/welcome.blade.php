@@ -3,7 +3,7 @@
 <body>
 <nav>
   <img class="nav-logo" src="img/esquilax_logo_small.svg">
-  <div class="nav-isotype">DennisApp</div>
+  <div class="nav-isotype">Esquilax</div>
 
       <div class="nav-user">
 
