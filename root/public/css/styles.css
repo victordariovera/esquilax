@@ -116,18 +116,7 @@ nav li a {
   font-weight: bold;
   align-items: center;
 }
-button{
-  background-color:white;
-  border: none;
-  color: black;
-  padding: 7px 10px;
-  margin: 8px;
-  text-align: center;
-  text-decoration: none;
-  font-size: 14px;
-  border-radius: 10px;
-  cursor:pointer;
-}
+
 
 
 /* Estilos del panel */
@@ -319,7 +308,8 @@ label{
 
 button{
     background-color: #2DE3BF;
-    border: none;
+    border: solid 1px;
+    border-color: white ;
     color: #041C29;
     padding: 10px 40px;
     text-align: center;
@@ -327,6 +317,12 @@ button{
     display: inline-block;
     font-size: 16px;
     border-radius: unset;
+    margin:10px;
+}
+
+button:hover{
+    background-color:white;
+    cursor: hand;
 }
 
 .form-forgot-link{
