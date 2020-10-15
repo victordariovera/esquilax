@@ -35,7 +35,7 @@ class HomeController extends Controller
     public function remediaciones(){
         return view('remediaciones');
     }
-    public function ajustes(){
-        return view('ajustes');
+    public function configuracion(){
+        return view('configuracion');
     }
 }

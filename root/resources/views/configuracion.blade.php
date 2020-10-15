@@ -1,5 +1,5 @@
 @extends('layouts.default')
 @section('content')
-    <h1>Ajustes</h1>
+    <h1>Configuracion</h1>
 
 @endsection

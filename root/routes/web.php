@@ -27,4 +27,4 @@ Route::get('/home', 'HomeController@index')->name('home');
 Route::get('/guardias', 'HomeController@guardias')->name('guardias');
 Route::get('/integraciones', 'HomeController@integraciones')->name('integraciones');
 Route::get('/remediaciones', 'HomeController@remediaciones')->name('remediaciones');
-Route::get('/ajustes', 'HomeController@ajustes')->name('ajustes');
+Route::get('/ajustes', 'HomeController@configuracion')->name('configuracion');
