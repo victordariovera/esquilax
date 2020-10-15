@@ -15,5 +15,23 @@
     <!-- Styles -->
     <link href="{{ asset('css/styles.css') }}" rel="stylesheet">
 </head>
+<body>
+<div class="container">
+
+
+   @include('layouts.navbar')
+
+
+  <div class="content">
+
     @yield('content')
+
+  </div>
+
+
+
+
+</div>
+</body>
+
 </html>
