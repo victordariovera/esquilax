@@ -219,5 +219,14 @@ input[type="button"]:hover, input[type="submit"]:hover{
 .content{
     background-color: $gray;
     flex: 1;
+    padding:50px;
 
+}
+
+.content h1{
+    margin-bottom:30px;
+}
+
+.content p {
+    line-height: 1.5em;
 }
