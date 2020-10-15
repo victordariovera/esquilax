@@ -191,11 +191,11 @@ input[type=button]:hover, input[type=submit]:hover {
 }
 
 .nav li:hover {
-  background-color: black;
+  background-color: #a2a2a2;
 }
 
 .nav li img {
-  opacity: 0.5;
+  opacity: 0.9;
 }
 
 .nav li:hover img {

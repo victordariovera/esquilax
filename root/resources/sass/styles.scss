@@ -205,11 +205,11 @@ input[type="button"]:hover, input[type="submit"]:hover{
 }
 
 .nav li:hover{
-    background-color: $primary;
+    background-color: darken($gray,30);
 }
 
 .nav li img{
-    opacity: 0.5;
+    opacity: 0.9;
 }
 .nav li:hover img{
     filter: invert(1);
