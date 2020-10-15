@@ -33,7 +33,8 @@
      inkscape:window-x="0"
      inkscape:window-y="23"
      inkscape:window-maximized="0"
-     inkscape:current-layer="layer1" />
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0" />
   <defs
      id="defs891" />
   <metadata
@@ -64,10 +65,10 @@
        id="path1044-2" />
     <path
        id="path1046-2"
-       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.06450649999999999px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.06450649999999999px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 5.8171178,5.7201242 c -0.018406,7.763e-4 -0.037668,0.00263 -0.057789,0.00527 C 5.6094291,5.7560052 5.4595556,5.8323106 5.3096582,5.9415042 5.190359,6.0636963 5.1126529,6.2197896 5.153898,6.4723201 5.223083,6.590265 5.3096429,6.6623578 5.4134191,6.6885678 5.6336424,6.7164008 5.8273528,6.7066088 6.0014771,6.6689658 6.1672621,6.542271 6.2890019,6.3880832 6.226252,6.1185365 6.1813281,5.8904383 6.0932413,5.7073818 5.8171195,5.7201538 Z m 0.1086057,0.1477469 a 0.09728993,0.18429146 0 0 1 0.097376,0.184281 0.09728993,0.18429146 0 0 1 -0.097376,0.1842815 0.09728993,0.18429146 0 0 1 -0.097261,-0.1842815 0.09728993,0.18429146 0 0 1 0.097261,-0.184281 z" />
     <path
-       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.05137120000000000px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.05137120000000000px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="M 7.1668659,4.1406179 C 7.6421824,3.5823129 8.6910809,2.1494396 10.54149,2.2041008 10.03117,2.8612596 9.5614486,3.5216047 8.3661538,4.1250422 L 8.662084,3.4241588 C 8.6043043,3.4057956 8.5222441,3.4117102 8.3817295,3.4760749 7.9617149,3.7728954 7.5592381,3.9820091 7.1668659,4.1406179 Z"
        id="path1052-7" />
   </g>
