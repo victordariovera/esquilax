@@ -13,12 +13,26 @@
 
      <div class="form__group field">
          <input type="email" class="form__field" placeholder="Usuario" name="email" id='email' required />
-         <label for="name" class="form__label">Usuario:</label>
+         <label for="name" class="form__label">Email:</label>
+
+         @error('email')
+                <span class="invalid-feedback" role="alert">
+                <strong>{{ $message }}</strong>
+                </span>
+         @enderror
+
        </div>
 
        <div class="form__group field">
          <input type="password" class="form__field" placeholder="password" name="password" id='password' required />
          <label for="name" class="form__label">Password:</label>
+
+         @error('password')
+         <span class="invalid-feedback" role="alert">
+         <strong>{{ $message }}</strong>
+         </span>
+        @enderror
+
        </div>
 
        <div class="form__group field">
