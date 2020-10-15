@@ -1,11 +1,11 @@
-@extends('layouts.app')
+@extends('layouts.login')
 @section('content')
 
 
 
 <div class="login">
     <div class="login_title">
-        <img src="img/esquilax_logo_small.svg">esquilax
+        <img src="img/esquilax_logo_small.svg">Registrate!
      </div>
 
 
