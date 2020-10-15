@@ -18,7 +18,7 @@
 
        <div class="form__group field">
          <input type="password" class="form__field" placeholder="password" name="password" id='password' required />
-         <label for="name" class="form__label">Password</label>
+         <label for="name" class="form__label">Password:</label>
        </div>
 
        <div class="form__group field">
