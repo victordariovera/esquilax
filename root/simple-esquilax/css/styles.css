@@ -39,7 +39,7 @@
   padding-bottom: 6px;
   font-weight: 400;
   border-width: 1px;
-  border-image: linear-gradient(to right, black, #4294ff);
+  border-image: linear-gradient(to right, #07418C, #4294ff);
   border-image-slice: 1;
 }
 .form__field:focus ~ .form__label {
@@ -48,7 +48,7 @@
   display: block;
   transition: 0.2s;
   font-size: 0.6rem;
-  color: black;
+  color: #07418C;
   font-weight: 700;
 }
 
@@ -97,15 +97,8 @@ body {
   align-items: center;
   min-height: 100vh;
   font-size: 1rem;
+  min-height: 100vh;
   width: 50%;
-}
-
-.login form {
-  display: inline-flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
-  width: 100%;
 }
 
 .login_art {
@@ -127,9 +120,7 @@ input[type=button], input[type=submit] {
 }
 
 input[type=button]:hover, input[type=submit]:hover {
-  background-color: black;
-  border: 1px solid;
-  border-color: black;
+  background-color: #07418C;
   color: white;
 }
 

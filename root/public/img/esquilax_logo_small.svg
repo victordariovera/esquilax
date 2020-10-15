@@ -5,11 +5,35 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="50"
    height="50"
    viewBox="0 0 13.229166 13.229167"
    version="1.1"
-   id="svg897">
+   id="svg897"
+   sodipodi:docname="esquilax_logo_small.svg"
+   inkscape:version="1.0.1 (c497b03c, 2020-09-10)">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1299"
+     inkscape:window-height="722"
+     id="namedview889"
+     showgrid="false"
+     inkscape:zoom="7.1769623"
+     inkscape:cx="42.663639"
+     inkscape:cy="25.280719"
+     inkscape:window-x="0"
+     inkscape:window-y="23"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1" />
   <defs
      id="defs891" />
   <metadata
@@ -20,7 +44,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -28,14 +52,14 @@
      id="layer1">
     <path
        id="path193-0"
-       style="fill:none;stroke:#ffffff;stroke-width:0.582477;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:none;stroke:#000000;stroke-width:0.582477;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 11.508791,2.6928733 c 0.862265,1.0759005 1.378515,2.4445516 1.378515,3.9345814 0,3.4632503 -2.788921,6.2707663 -6.2292306,6.2707663 -3.4403088,0 -6.22923173,-2.807516 -6.22923173,-6.2707663 0,-3.4632464 2.78892293,-6.27076413 6.22923173,-6.27076413 1.127209,0 2.1844913,0.30139594 3.0966584,0.82849953" />
     <path
-       style="fill:none;stroke:#fffdfd;stroke-width:0.582477;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:none;stroke:#060000;stroke-width:0.582477;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 12.794703,6.7001408 -1.765188,0.6022411 c 0,0 -1.1297284,0.4099479 -2.5484516,-1.9231135 C 8.1364875,4.83841 8.9396111,4.5924646 8.9396111,4.5924646 10.736069,3.6155526 12.471171,1.7351986 12.127642,1.2592058 11.577904,0.86728346 10.182213,0.65925933 8.1989361,2.1367822 7.4450761,2.6984027 6.9260636,3.4771077 6.108795,4.36712 4.3209981,4.8559138 3.2867205,5.8699222 2.7435073,8.486097 2.9194621,8.8965289 3.0463256,8.7227457 3.4470647,8.9733824 3.5301664,9.3718285 3.6621117,9.4682543 4.1510531,9.4961191 L 5.4016753,9.2129402 C 6.3075756,9.0362456 6.6623624,9.43155 6.9040209,10.153534 l 0.8235516,2.672853"
        id="path1018-5" />
     <path
-       style="fill:none;stroke:#ffffff;stroke-width:0.582477;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:none;stroke:#000000;stroke-width:0.582477;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 5.9355592,9.1643805 c 0,0 0.8864703,0.054106 1.2481773,-0.1468435 C 7.4614749,8.7699263 7.4049459,8.7300893 7.5948997,8.0483631"
        id="path1044-2" />
     <path
