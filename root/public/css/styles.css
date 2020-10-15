@@ -155,7 +155,7 @@ input[type=button]:hover, input[type=submit]:hover {
   display: flex;
   align-items: center;
   justify-content: center;
-  background-color: #6f6f6f;
+  background-color: #eeeeee;
   width: 100%;
   height: 70px;
 }
@@ -163,7 +163,7 @@ input[type=button]:hover, input[type=submit]:hover {
 .nav_logo img {
   width: 35px;
   height: 35px;
-  filter: invert(1);
+  opacity: 0.8;
 }
 
 .nav_items {
