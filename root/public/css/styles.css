@@ -190,6 +190,11 @@ input[type=button]:hover, input[type=submit]:hover {
   cursor: pointer;
 }
 
+.nav a {
+  text-decoration: none;
+  display: block;
+}
+
 .nav li:hover {
   background-color: #a2a2a2;
 }
@@ -211,6 +216,7 @@ input[type=button]:hover, input[type=submit]:hover {
 
 .content h1 {
   margin-bottom: 30px;
+  font-size: 2.5em;
 }
 
 .content p {

@@ -29,4 +29,13 @@ class HomeController extends Controller
     public function guardias(){
         return view('guardias');
     }
+    public function integraciones(){
+        return view('integraciones');
+    }
+    public function remediaciones(){
+        return view('remediaciones');
+    }
+    public function ajustes(){
+        return view('ajustes');
+    }
 }
