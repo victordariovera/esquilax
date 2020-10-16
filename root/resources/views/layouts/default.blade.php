@@ -13,7 +13,7 @@
     <script src="{{ asset('js/scripts.js') }}?p=<?php echo rand(5, 9999) ?>;" defer></script>
 
     <!-- Styles -->
-    <link href="{{ asset('css/styles.css') }}" rel="stylesheet">
+    <link href="{{ asset('css/styles.css') }}?p=<?php echo rand(5, 9999) ?>" rel="stylesheet">
 </head>
 <body>
 <div class="container">
