@@ -10,7 +10,7 @@
     <title>{{ config('app.name', 'Laravel') }}</title>
 
     <!-- Scripts -->
-    <script src="{{ asset('js/scripts.js') }}" defer></script>
+    <script src="{{ asset('js/scripts.js') }}?p=<?php echo rand(5, 9999) ?>;" defer></script>
 
     <!-- Styles -->
     <link href="{{ asset('css/styles.css') }}" rel="stylesheet">
