@@ -18,6 +18,7 @@ Route::get('/', function () {
 
 */
 
+
 Auth::routes();
 
 Route::get('/', 'HomeController@index')->name('home');
@@ -28,3 +29,8 @@ Route::get('/guardias', 'HomeController@guardias')->name('guardias');
 Route::get('/integraciones', 'HomeController@integraciones')->name('integraciones');
 Route::get('/remediaciones', 'HomeController@remediaciones')->name('remediaciones');
 Route::get('/configuracion', 'HomeController@configuracion')->name('configuracion');
+Route::get('/novedades', function () {
+    return view('novedades');
+})->name('novedades');
+
+

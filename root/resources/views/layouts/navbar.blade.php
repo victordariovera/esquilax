@@ -1,6 +1,6 @@
 <div class="nav">
     <div class="nav_logo">
-      <img src="img/esquilax_logo_small.svg">
+        <a href="{{ route('home') }}"> <img src="img/esquilax_logo_small.svg"></a>
     </div>
     <div class="nav_items">
     <ul>
