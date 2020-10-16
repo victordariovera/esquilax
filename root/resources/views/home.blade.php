@@ -6,9 +6,9 @@
     </div>
     <div class="dashboard">
 
-        <div class="dashboard-item">
+        <div class="dashboard-showcase">
         <div class="dashboard-item-header">
-            <div class="dashboard-item-title">Novedades</div>
+            <div class="dashboard-showcase-title">Novedades</div>
             <div class="dashboard-item-more"><a href="{{ route('novedades') }}">ver todo</a> </div>
         </div>
           <div class="dashboard-item-content">
@@ -24,6 +24,10 @@
             <div class="dashboard-item-more"><a href="{{ route('guardias') }}">ver todo</a> </div>
         </div>
           <div class="dashboard-item-content">
+              <div clasS="dhasboard-tiem-previousvalue"></div>
+              <div class="dashboard-item-currentvalue">Cosme Fulanito</div>
+              <div clasS="dhasboard-tiem-nextvalue"></div>
+
             <p>
                 Lorem ipsum dolor sit amet consectetur adipisicing elit. Similique magni doloremque dolore autem? Natus vitae qui, pariatur libero officiis quasi laborum dolorem in exercitationem ipsum aliquid ab quam? Libero, facere?
             </p>
