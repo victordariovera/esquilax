@@ -243,6 +243,8 @@ input[type="button"]:hover, input[type="submit"]:hover{
     background-color: $gray;
     flex: 1;
     padding:50px;
+    display:flex;
+    flex-direction: column;
 
 }
 
@@ -359,6 +361,24 @@ input[type="button"]:hover, input[type="submit"]:hover{
     font-size:0.8em;
     color:darken($gray,50);
     margin-bottom:5px;
+}
+
+// Content Empty
+
+.content-empty-container{
+    display:flex;
+    flex:1;
+    justify-content: center;
+    align-items: center;
+}
+
+.content-empty{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    font-size:2em;
+    font-weight: 700;
+    opacity:0.2;
 }
 
 

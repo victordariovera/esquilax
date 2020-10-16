@@ -227,6 +227,8 @@ input[type=button]:hover, input[type=submit]:hover {
   background-color: #eeeeee;
   flex: 1;
   padding: 50px;
+  display: flex;
+  flex-direction: column;
 }
 
 .content p {
@@ -336,6 +338,22 @@ input[type=button]:hover, input[type=submit]:hover {
   font-size: 0.8em;
   color: #6f6f6f;
   margin-bottom: 5px;
+}
+
+.content-empty-container {
+  display: flex;
+  flex: 1;
+  justify-content: center;
+  align-items: center;
+}
+
+.content-empty {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 2em;
+  font-weight: 700;
+  opacity: 0.2;
 }
 
 /*# sourceMappingURL=styles.css.map */

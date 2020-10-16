@@ -5,4 +5,10 @@
     <p>Ajustes de esquilax</p>
     </div>
 
+    <div class="content-empty-container">
+        <div class="content-empty">
+            🤖 estamos desarrollando...
+        </div>
+    </div>
+
 @endsection
