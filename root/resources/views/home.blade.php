@@ -12,9 +12,11 @@
             <div class="dashboard-item-more"><a href="{{ route('novedades') }}">ver todo</a> </div>
         </div>
           <div class="dashboard-item-content">
-            <p>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Similique magni doloremque dolore autem? Natus vitae qui, pariatur libero officiis quasi laborum dolorem in exercitationem ipsum aliquid ab quam? Libero, facere?
-            </p>
+            <p>Estas usando la versión 0.1 Alpha de Esquilax</p>
+            <ul>
+                <li>Primera versión de Esquilax 👾 (Alpha)</li>
+                <li>Se implementa la funcionalidad de Guardias</li>
+            <ul>
           </div>
       </div>
 
@@ -24,9 +26,8 @@
             <div class="dashboard-item-more"><a href="{{ route('guardias') }}">ver todo</a> </div>
         </div>
           <div class="dashboard-item-content">
-              <div clasS="dhasboard-tiem-previousvalue"></div>
+              <div class="dashboard-item-currentvalue-info">En este momento esta de guardia..</div>
               <div class="dashboard-item-currentvalue">Cosme Fulanito</div>
-              <div clasS="dhasboard-tiem-nextvalue"></div>
 
             <p>
                 Lorem ipsum dolor sit amet consectetur adipisicing elit. Similique magni doloremque dolore autem? Natus vitae qui, pariatur libero officiis quasi laborum dolorem in exercitationem ipsum aliquid ab quam? Libero, facere?

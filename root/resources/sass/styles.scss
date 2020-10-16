@@ -1,4 +1,4 @@
-$primary:rgb(0, 36, 153);
+$primary:rgb(0, 28, 153);
 // $primary:#07418C;
 $secondary:#4294ff;
 $blue:rgb(0, 36, 153);
@@ -286,9 +286,20 @@ input[type="button"]:hover, input[type="submit"]:hover{
     padding:20px;
 }
 
+.dashboard-item-content ul{
+    font-size:0.8em;
+    margin-left:15px;
+    margin-top:20px;
+
+}
+
+.dashboard-item-content li{
+    margin-bottom:5px;
+}
+
 
 .dashboard-showcase{
-    background-color:lighten($primary,20);
+    background-color:desaturate(darken($primary,10), 30);
     color:$white;
     margin-right: 10px;
     margin-bottom: 10px;
@@ -335,6 +346,19 @@ input[type="button"]:hover, input[type="submit"]:hover{
 .dashboard-item-more{
     font-size:1em;
     color:$primary;
+}
+
+
+.dashboard-item-currentvalue{
+    font-size:2.5em;
+    font-weight: 700;
+    color:$primary;
+}
+
+.dashboard-item-currentvalue-info{
+    font-size:0.8em;
+    color:darken($gray,50);
+    margin-bottom:5px;
 }
 
 
