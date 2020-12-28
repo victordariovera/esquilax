@@ -7,7 +7,8 @@
 
     <div class="content-empty-container">
         <div class="content-empty">
-        <img src="{{ asset('img/camping.svg') }}"><br> estamos creando algo genial, pronto estarà listo!
+        <img src="{{ asset('img/camping.svg') }}">
+        En GdA estamos creando algo genial, pronto estarà listo!
         </div>
     </div>
 

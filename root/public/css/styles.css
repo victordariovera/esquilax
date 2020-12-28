@@ -355,11 +355,15 @@ input[type=button]:hover, input[type=submit]:hover {
 
 .content-empty {
   display: flex;
+  flex-direction: column;
   justify-content: center;
   align-items: center;
-  font-size: 2em;
-  font-weight: 700;
-  opacity: 0.2;
+  font-size: 1em;
+  font-weight: 400;
+}
+.content-empty img{
+  width: 500px;
+  height: 500px;
 }
 
 /*# sourceMappingURL=styles.css.map */
