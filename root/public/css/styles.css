@@ -2,9 +2,9 @@
   font-family: Jost;
   src: url(../fonts/jost/static/Jost-Regular.ttf);
 }
-
 body {
-  font-family: 'Jost', sans-serif;
+  font-family: "Jost", sans-serif;
+  display: flex;
   flex-direction: row;
   justify-content: center;
   align-items: center;
@@ -74,9 +74,9 @@ a:hover {
   top: 0;
   display: block;
   transition: 0.2s;
-  font-size: 0.6rem;
+  font-size: 0.8rem;
   color: #001c99;
-  font-weight: 700;
+  font-weight: 400;
 }
 
 /* reset input */
@@ -147,7 +147,8 @@ input[type=button]:hover, input[type=submit]:hover {
 
 .invalid-feedback {
   color: red;
-  font-size: 0.6em;
+  font-size: 0.8em;
+  font-weight: 200;
 }
 
 .container {
@@ -230,7 +231,7 @@ input[type=button]:hover, input[type=submit]:hover {
 .content {
   background-color: #eeeeee;
   flex: 1;
-  padding: 30px;
+  padding: 50px;
   display: flex;
   flex-direction: column;
 }
@@ -353,17 +354,18 @@ input[type=button]:hover, input[type=submit]:hover {
   align-items: center;
 }
 
+.content-empty img {
+  height: 450px;
+  width: 450px;
+}
+
 .content-empty {
   display: flex;
   flex-direction: column;
   justify-content: center;
   align-items: center;
   font-size: 1em;
-  font-weight: 400;
-}
-.content-empty img{
-  width: 500px;
-  height: 500px;
+  font-weight: 500;
 }
 
 /*# sourceMappingURL=styles.css.map */
