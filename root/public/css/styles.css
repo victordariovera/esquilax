@@ -230,7 +230,7 @@ input[type=button]:hover, input[type=submit]:hover {
 .content {
   background-color: #eeeeee;
   flex: 1;
-  padding: 50px;
+  padding: 30px;
   display: flex;
   flex-direction: column;
 }
