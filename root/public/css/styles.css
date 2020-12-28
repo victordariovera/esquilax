@@ -265,6 +265,7 @@ input[type=button]:hover, input[type=submit]:hover {
   border-top: none;
   border-left: none;
   padding: 20px;
+  border-radius: 5px;
 }
 
 .dashboard-item-content ul {
@@ -289,6 +290,7 @@ input[type=button]:hover, input[type=submit]:hover {
   border-top: none;
   border-left: none;
   padding: 20px;
+  border-radius: 5px;
 }
 
 .dashboard-showcase a {
