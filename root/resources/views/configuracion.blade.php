@@ -7,7 +7,7 @@
 
     <div class="content-empty-container">
         <div class="content-empty">
-            🤖 estamos desarrollando...
+        <img scr="{{ asset('img/camping.svg') }}"><br> estamos creando algo genial, pronto estarà listo!
         </div>
     </div>
 
