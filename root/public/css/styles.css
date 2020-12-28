@@ -1,6 +1,10 @@
+@font-face {
+  font-family: Jost;
+  src: url(../fonts/jost/static/Jost-Regular.ttf);
+}
+
 body {
-  font-family: "Poppins", sans-serif;
-  display: flex;
+  font-family: 'Jost', sans-serif;
   flex-direction: row;
   justify-content: center;
   align-items: center;
