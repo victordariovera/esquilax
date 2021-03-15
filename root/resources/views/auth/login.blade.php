@@ -5,7 +5,7 @@
 
 <div class="login">
     <div class="login_title">
-        <img src="img/esquilax_logo_small.svg">esquilax
+        <img src="img/esquilax_logo_small.svg">ESQUILAX
      </div>
 
      <form method="POST" action="{{ route('login') }}">
