@@ -1,7 +1,7 @@
 
 
 
-$primary:rgb(0, 28, 153);
+$primary:rgb(45, 164, 218);
 // $primary:#07418C;
 $secondary:#4294ff;
 $blue:rgb(0, 36, 153);
@@ -148,7 +148,7 @@ input[type="button"], input[type="submit"] {
   border:1px solid;
   padding: 8px 15px 8px 15px;
   cursor: pointer;
-  font-size:15px;
+  font-size:12px;
   transition-duration: $transition_duration;
 
 }
@@ -159,6 +159,13 @@ input[type="button"]:hover, input[type="submit"]:hover{
   border-color: $primary;
   color:white;
 }
+
+select{
+    border:1px solid; 
+    padding: 7px 15px 7px 15px;
+    font-size:12px;
+}
+
 
 .invalid-feedback{
     color:red;

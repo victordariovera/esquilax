@@ -29,9 +29,86 @@
               <div class="dashboard-item-currentvalue-info">En este momento esta de guardia..</div>
               <div class="dashboard-item-currentvalue">Cosme Fulanito</div>
 
-            <p>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Similique magni doloremque dolore autem? Natus vitae qui, pariatur libero officiis quasi laborum dolorem in exercitationem ipsum aliquid ab quam? Libero, facere?
-            </p>
+      
+          </div>
+      </div>
+
+
+      <div class="dashboard-item">
+        <div class="dashboard-item-header">
+            <div class="dashboard-item-title">Guardias</div>
+            <div class="dashboard-item-more"><a href="{{ route('guardias') }}">ver todo</a> </div>
+        </div>
+          <div class="dashboard-item-content">
+              <div class="dashboard-item-currentvalue-info">En este momento esta de guardia..</div>
+              <div class="dashboard-item-currentvalue">Cosme Fulanito</div>
+
+      
+          </div>
+      </div>
+
+      <div class="dashboard-item">
+        <div class="dashboard-item-header">
+            <div class="dashboard-item-title">Guardias</div>
+            <div class="dashboard-item-more"><a href="{{ route('guardias') }}">ver todo</a> </div>
+        </div>
+          <div class="dashboard-item-content">
+              <div class="dashboard-item-currentvalue-info">En este momento esta de guardia..</div>
+              <div class="dashboard-item-currentvalue">Cosme Fulanito</div>
+
+      
+          </div>
+      </div>
+
+      <div class="dashboard-item">
+        <div class="dashboard-item-header">
+            <div class="dashboard-item-title">Guardias</div>
+            <div class="dashboard-item-more"><a href="{{ route('guardias') }}">ver todo</a> </div>
+        </div>
+          <div class="dashboard-item-content">
+              <div class="dashboard-item-currentvalue-info">En este momento esta de guardia..</div>
+              <div class="dashboard-item-currentvalue">Cosme Fulanito</div>
+
+      
+          </div>
+      </div>
+
+      <div class="dashboard-item">
+        <div class="dashboard-item-header">
+            <div class="dashboard-item-title">Guardias</div>
+            <div class="dashboard-item-more"><a href="{{ route('guardias') }}">ver todo</a> </div>
+        </div>
+          <div class="dashboard-item-content">
+              <div class="dashboard-item-currentvalue-info">En este momento esta de guardia..</div>
+              <div class="dashboard-item-currentvalue">Cosme Fulanito</div>
+
+      
+          </div>
+      </div>
+
+      <div class="dashboard-item">
+        <div class="dashboard-item-header">
+            <div class="dashboard-item-title">Guardias</div>
+            <div class="dashboard-item-more"><a href="{{ route('guardias') }}">ver todo</a> </div>
+        </div>
+          <div class="dashboard-item-content">
+              <div class="dashboard-item-currentvalue-info">En este momento esta de guardia..</div>
+              <div class="dashboard-item-currentvalue">Cosme Fulanito</div>
+
+      
+          </div>
+      </div>
+
+      <div class="dashboard-item">
+        <div class="dashboard-item-header">
+            <div class="dashboard-item-title">Monitoreo Super Inteligente</div>
+            <div class="dashboard-item-more"><a href="{{ route('guardias') }}">Destruir Telecom ></a> </div>
+        </div>
+          <div class="dashboard-item-content">
+              <div class="dashboard-item-currentvalue-info">Estado de Inteligencia Artificial</div>
+              <div class="dashboard-item-currentvalue">Skynet Activado</div>
+
+      
           </div>
       </div>
 
