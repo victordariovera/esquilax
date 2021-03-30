@@ -5,7 +5,7 @@
 
 <div class="login">
     <div class="login_title">
-        <img src="img/esquilax_logo_small.svg">ESQUILAX
+        <img src="img/esquilax_logo_small.svg">{{ config('app.name', 'Laravel') }}
      </div>
 
      <form method="POST" action="{{ route('login') }}">
